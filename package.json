@@ -1,3 +1,11 @@
+"scripts": {
+  "dev": "next dev",
+  "build": "next build",
+  "start": "next start"
+}
+git add package.json
+git commit -m "Fix: Added missing build script"
+git push origin main
 {
   "name": "beads",
   "version": "1.0.0",
